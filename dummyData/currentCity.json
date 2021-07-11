@@ -1,0 +1,25 @@
+[
+  {
+    "LocalObservationDateTime": "2021-07-09T19:51:00+03:00",
+    "EpochTime": 1625849460,
+    "WeatherText": "Clear",
+    "WeatherIcon": 33,
+    "HasPrecipitation": false,
+    "PrecipitationType": null,
+    "IsDayTime": false,
+    "Temperature": {
+      "Metric": {
+        "Value": 28.9,
+        "Unit": "C",
+        "UnitType": 17
+      },
+      "Imperial": {
+        "Value": 84,
+        "Unit": "F",
+        "UnitType": 18
+      }
+    },
+    "MobileLink": "http://www.accuweather.com/en/il/kiryat-atidim/215805/current-weather/215805?lang=en-us",
+    "Link": "http://www.accuweather.com/en/il/kiryat-atidim/215805/current-weather/215805?lang=en-us"
+  }
+]
